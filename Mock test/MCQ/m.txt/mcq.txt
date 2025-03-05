@@ -1,0 +1,21 @@
+Q1. a
+Q2. b   in to long
+Q3. a   -127
+Q.4 b   int [] A ={1,2,3};
+Q5. a   objects refernce
+
+Q6. c   bcd
+Q7. d   -1
+Q8. b   void
+Q9. c   4
+Q10. b  stack
+Q11. d   6 
+Q12. a  Right shift operator
+Q13. b  use pointer
+Q14. c  protected
+Q15. d  runtime error
+Q16. b  private
+Q17. d   a condition to start the recursion
+Q18. a   54321
+Q19. a  /*comment*/
+Q20. c  const
